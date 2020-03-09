@@ -1,3 +1,3 @@
 ## About shubiao-yao.github.io
 
-This is my github blog。
+This is my github blog
